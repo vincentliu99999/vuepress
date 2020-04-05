@@ -10,6 +10,8 @@ markdown:
 themeConfig:
   sidebar:
     - '/'
-    - '/test'
+    - 
+      - '/test'
+      - 'test page'
   sidebarDepth: 2
   displayAllHeaders: true
