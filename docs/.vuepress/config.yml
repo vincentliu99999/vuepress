@@ -1,0 +1,8 @@
+---
+title: Hello Vincent's VuePress
+description: Just playing around
+
+base: /vuepress/
+
+markdown:
+  lineNumbers: true
