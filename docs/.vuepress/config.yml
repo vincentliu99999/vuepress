@@ -6,3 +6,10 @@ base: /vuepress/
 
 markdown:
   lineNumbers: true
+
+themeConfig:
+  sidebar:
+    - '/'
+    - '/test'
+  sidebarDepth: 2
+  displayAllHeaders: true
