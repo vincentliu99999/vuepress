@@ -1,7 +1,3 @@
 # Hello VuePress
 
-## Sample Code
-
-```js
-console.log('hello vuepress');
-```
+Let's VuePress It!

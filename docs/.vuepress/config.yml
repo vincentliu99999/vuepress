@@ -9,9 +9,17 @@ markdown:
 
 themeConfig:
   sidebar:
-    - '/'
-    - 
-      - '/test'
-      - 'test page'
-  sidebarDepth: 2
-  displayAllHeaders: true
+    # - '/'
+    # - 
+    #   - '/test'
+    #   - 'test page'
+    - title: '入門'
+      children:
+        - '/quick-start'
+        - '/config'
+        - '/markdown'
+        - '/theme'
+        - '/deploy'
+        # - '/vue'
+  # sidebarDepth: 1
+  displayAllHeaders: false
