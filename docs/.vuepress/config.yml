@@ -8,6 +8,11 @@ markdown:
   lineNumbers: true
 
 themeConfig:
+  nav:
+    - text: 'Home'
+      link: '/'
+    - text: 'Repo'
+      link: 'https://github.com/vincentliu99999/vuepress'
   sidebar:
     # - '/'
     # - 
