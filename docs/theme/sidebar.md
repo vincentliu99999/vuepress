@@ -1,6 +1,4 @@
-# Theme
-
-## Sidebar
+# Sidebar
 
 在 `themeConfig` 裡做設定
 

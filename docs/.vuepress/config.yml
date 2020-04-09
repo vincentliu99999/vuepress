@@ -20,11 +20,19 @@ themeConfig:
     #   - 'test page'
     - title: '入門'
       children:
-        - '/quick-start'
-        - '/config'
-        - '/markdown'
-        - '/theme'
-        - '/deploy'
+        - '/guide/'
+        - '/guide/quick-start'
+        - '/guide/config'
+        - '/guide/markdown'
+        - '/guide/deploy'
         # - '/vue'
+    - title: '主題'
+      children:
+        - '/theme/sidebar'
+    - title: '進階'
+      children:
+        - '/advanced/frontmatter'
+        - '/advanced/permalinks'
+        - '/advanced/markdown-slot'
   # sidebarDepth: 1
   displayAllHeaders: false
